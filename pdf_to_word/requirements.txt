@@ -1,0 +1,9 @@
+# Dependencias para el proyecto PDF to Word
+# Librería principal para conversión de PDF a DOCX
+pdf2docx>=0.5.8
+
+# Dependencias adicionales que se instalan automáticamente con pdf2docx:
+# - python-docx (para manipular archivos Word)
+# - PyMuPDF (para leer archivos PDF)
+# - fonttools (para manejo de fuentes)
+# - pillow (para procesamiento de imágenes)
